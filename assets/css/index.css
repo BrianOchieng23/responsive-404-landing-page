@@ -93,7 +93,9 @@ img {
 
 .nav__logo {
   font-weight: 700;
-  text-shadow: 2px 2px 2px var(--red-color);
+  background-color: var(--red-color);
+  border-radius: 7px;
+  padding: 3px;
 }
 
 .nav__toggle {
