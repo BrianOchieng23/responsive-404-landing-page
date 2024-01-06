@@ -6,3 +6,4 @@ Creation of a responsive 404 landing page.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![preview img](/preview.png)
+https://404-error-br23.netlify.app/
